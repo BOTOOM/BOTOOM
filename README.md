@@ -47,6 +47,10 @@
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=BOTOOM&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
+[![Spotify](https://botoom.vercel.app/api/spotify)](https://open.spotify.com/user/BOTOOM)
+
+
+
 [linkedin]: https://www.linkedin.com/in/edwar-diaz/
 [blog]:https://github.com/BOTOOM
 [facebook]:https://www.facebook.com/SR.BOTOM/
