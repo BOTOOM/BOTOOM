@@ -52,12 +52,17 @@
 
 <br />
 
----
+<br />
 
-<a href="https://open.spotify.com/user/BOTOOM">
+
+
+<div> 
+  <a href="https://open.spotify.com/user/BOTOOM" >
   <img src="https://botoom.vercel.app/api/spotify" alt="BOTOOM" align="left" />
 </a>
+ </div>
 <!-- [![Spotify](https://botoom.vercel.app/api/spotify)](https://open.spotify.com/user/BOTOOM) -->
+
 
 ![Metrics](https://metrics.lecoq.io/BOTOOM?template=classic&base.header=1&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FBogota)
 
