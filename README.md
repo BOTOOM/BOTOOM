@@ -48,14 +48,6 @@
 
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=BOTOOM&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<br />
-
-<br />
-
-<br />
-
-
-
 <div> 
   <a href="https://open.spotify.com/user/BOTOOM" >
   <img src="https://botoom.vercel.app/api/spotify" alt="BOTOOM" align="left" />
