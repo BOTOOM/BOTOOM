@@ -48,6 +48,9 @@
 
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=BOTOOM&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+![Metrics](https://metrics.lecoq.io/BOTOOM?template=classic&base.header=1&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FBogota)
+
+
 <div> 
   <a href="https://open.spotify.com/user/BOTOOM" >
   <img src="https://botoom.vercel.app/api/spotify" alt="BOTOOM" align="left" />
@@ -56,7 +59,6 @@
 <!-- [![Spotify](https://botoom.vercel.app/api/spotify)](https://open.spotify.com/user/BOTOOM) -->
 
 
-![Metrics](https://metrics.lecoq.io/BOTOOM?template=classic&base.header=1&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FBogota)
 
 
 
