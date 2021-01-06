@@ -52,6 +52,8 @@
 
 <br />
 
+---
+
 <a href="https://open.spotify.com/user/BOTOOM">
   <img src="https://botoom.vercel.app/api/spotify" alt="BOTOOM" align="left" />
 </a>
