@@ -20,8 +20,7 @@
 
 ### Technology Stack:
 
-[<img align="left" alt="go" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />][blog]
-[<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][blog]
+[<img align="left" alt="go" width="30px" src="https://golang.org/lib/godoc/images/go-logo-blue.svg" />][blog]
 [<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][blog]
 [<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][blog]
 [<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][blog]
@@ -39,15 +38,19 @@
 ### :zap: My stats
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BOTOOM&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=BOTOOM&count_private=true&show_icons=true&theme=tokyonight" alt="BOTOOM" align="left" />
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTOOM&layout=compact&langs_count=7&count_private=true&theme=tokyonight" alt="BOTOOM" align="right" />
+</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOTOOM&layout=compact&langs_count=7&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=BOTOOM&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-
 [![Spotify](https://botoom.vercel.app/api/spotify)](https://open.spotify.com/user/BOTOOM)
+
+![Metrics](https://metrics.lecoq.io/BOTOOM?template=classic&base.header=1&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FBogota)
 
 
 
