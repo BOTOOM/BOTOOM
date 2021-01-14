@@ -38,26 +38,10 @@
 ### :zap: My stats
 
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=BOTOOM&count_private=true&show_icons=true&theme=tokyonight" alt="BOTOOM" align="left" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTOOM&layout=compact&langs_count=7&count_private=true&theme=tokyonight" alt="BOTOOM" align="right" />
-</a>
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BOTOOM&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/botoom/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOTOOM&layout=compact&langs_count=7&count_private=true&theme=tokyonight)](https://github.com/botoom/github-readme-stats)
 
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=BOTOOM&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-![Metrics](https://metrics.lecoq.io/BOTOOM?template=classic&base.header=1&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FBogota)
-
-
-<div> 
-  <a href="https://open.spotify.com/user/BOTOOM" >
-  <img src="https://botoom.vercel.app/api/spotify" alt="BOTOOM" align="left" />
-</a>
- </div>
-<!-- [![Spotify](https://botoom.vercel.app/api/spotify)](https://open.spotify.com/user/BOTOOM) -->
-
 
 
 
