@@ -57,4 +57,4 @@
 [blog]:https://github.com/BOTOOM
 [gmail]:mailto:edwardiaz.dev@gmail.com
 [Hashnode]:https://botoom.hashnode.dev/
-[Pluralsight]:[https://botoom.hashnode.dev/](https://app.pluralsight.com/profile/edwar-diaz)
+[Pluralsight]:https://app.pluralsight.com/profile/edwar-diaz
