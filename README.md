@@ -11,10 +11,10 @@
 ### Connect with me 
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][Hashnode]
+[<img align="left" alt="Pluralsight" src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" />][Pluralsight]
+
 
 <br />
 <br />
@@ -55,7 +55,6 @@
 
 [linkedin]: https://www.linkedin.com/in/edwar-diaz/
 [blog]:https://github.com/BOTOOM
-[facebook]:https://www.facebook.com/SR.BOTOM/
-[instagram]:https://www.instagram.com/sr.botom/
 [gmail]:mailto:edwardiaz.dev@gmail.com
 [Hashnode]:https://botoom.hashnode.dev/
+[Pluralsight]:[https://botoom.hashnode.dev/](https://app.pluralsight.com/profile/edwar-diaz)
