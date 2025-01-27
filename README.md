@@ -14,6 +14,7 @@
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][Hashnode]
 [<img align="left" alt="Pluralsight" src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" />][Pluralsight]
+[<img align="left" alt="Pluralsight" src="https://img.shields.io/badge/Platzi-13161c?style=for-the-badge&logo=platzi&logoColor=0ae98a" />][Platzi]
 
 
 <br />
@@ -35,6 +36,7 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AZURE](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
 
@@ -58,3 +60,4 @@
 [gmail]:mailto:edwardiaz.dev@gmail.com
 [Hashnode]:https://botoom.hashnode.dev/
 [Pluralsight]:https://app.pluralsight.com/profile/edwar-diaz
+[Platzi]:https://platzi.com/p/edwardiaz.dev/
