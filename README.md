@@ -24,7 +24,7 @@ Let's connect and grow together in tech!
 ### 🔭 Currently
 ---
 
-- ✍🏻 Sharing DevOps & Full Stack content on LinkedIn and Hashnode.
+- ✍🏻 Sharing DevOps & Full Stack content on [LinkedIn][linkedin] and [Hashnode][Hashnode].
 - 👨🏻‍💻 Exploring AI integrations in serverless environments.
 - 💼 Actively looking for opportunities in high-impact, growth-focused teams.
 
